@@ -9,6 +9,6 @@
 <li>Разработать требуемую UML-диаграмму, разместить в wiki как иллюстрацию к тексту.</ol><br>
 <ol><strong>Список ссылок на различные ресурсы:</strong><br>
 <li><a href="https://github.com/kaysarov">Личная страница</a><br>
-<li><a href="https://github.com/kaysarov/kaysarov.github.io">Личный репозиторий</a><br>
-<li><a href="https://github.com/kaysarov/kaysarov.github.io/wiki">WiKi</a><br>
+<li><a href="https://github.com/kaysarov/kaysarov">Личный репозиторий</a><br>
+<li><a href="https://github.com/kaysarov/kaysarov/wiki">WiKi</a><br>
 <li><a href="https://erastov.github.io ">index</a></ol><br>
