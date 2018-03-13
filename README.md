@@ -11,4 +11,4 @@
 <li><a href="https://github.com/kaysarov">Личная страница</a><br>
 <li><a href="https://github.com/kaysarov/kaysarov">Личный репозиторий</a><br>
 <li><a href="https://github.com/kaysarov/kaysarov/wiki">WiKi</a><br>
-<li><a href="https://kaysarov">index</a></ol><br>
+<li><a href="https://kaysarov.github.io">index</a></ol><br>
