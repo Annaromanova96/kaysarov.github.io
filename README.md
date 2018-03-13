@@ -1,6 +1,6 @@
 # Проектирование информационных систем
 ## Кайсаров Магомед Ганапиевич ИДБ-14-13
-##### erastov.github.io
+
 **Файл содержит задачи для лабораторной работы.**<br>
 <ol><strong>Список задач</strong><br>   
 <li>Зарегистрироваться на сайте github.com.<br>
@@ -11,4 +11,4 @@
 <li><a href="https://github.com/kaysarov">Личная страница</a><br>
 <li><a href="https://github.com/kaysarov/kaysarov">Личный репозиторий</a><br>
 <li><a href="https://github.com/kaysarov/kaysarov/wiki">WiKi</a><br>
-<li><a href="https://erastov.github.io ">index</a></ol><br>
+<li><a href="https://kaysarov">index</a></ol><br>
